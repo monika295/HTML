@@ -1,0 +1,20 @@
+
+        body{
+            background: linear-gradient(90deg,orangered,white,green);
+            color:black;
+        }
+        .heading1{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-shadow: 10px 5px 10px darkmagenta;
+            font-size: 65px;
+            
+}
+#heading2{
+    color:gold;
+}
+
+img{
+    border:2px solid black;
+    border-radius: 50px 10px 50px 10px;
+    box-shadow: 10px 5px 5px blue;
+}
